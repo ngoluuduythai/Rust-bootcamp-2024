@@ -1,0 +1,1 @@
+/Users/macos/MyDream/rust-final/Rust-bootcamp-2024/11-Final-Project/target/debug/libfinal_project.rlib: /Users/macos/MyDream/rust-final/Rust-bootcamp-2024/11-Final-Project/src/energy.rs /Users/macos/MyDream/rust-final/Rust-bootcamp-2024/11-Final-Project/src/lib.rs
